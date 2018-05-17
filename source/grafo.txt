@@ -1,6 +1,6 @@
 # Directed graph: grafo.txt 
 # Save as tab-separated list of edges
-# Nodes: 40000 Edges: 95496
+# Nodes: 30608 Edges: 95496
 # FromNodeId	ToNodeId
 223	150
 241	237
